@@ -4,4 +4,4 @@ title: Dev
 permalink: /dev/
 ---
 
-[gkama][https://github.com/gkama]
+This is the development page, where I keep my projects
