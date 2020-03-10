@@ -42,7 +42,6 @@ include:
 #   - vendor/ruby/
 
 plugins:
-  - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jemoji
