@@ -53,9 +53,9 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Senior .NET Developer, specializing in back-end development"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://gkamacharov.com"
+    - label: "LinkedIn"
+      icon: "fas fa-fw fa-linkedin-in"
+      url: "https://www.linkedin.com/in/georgi-kamacharov/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/gkama"
