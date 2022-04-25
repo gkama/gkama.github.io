@@ -5,7 +5,27 @@
 layout: default
 ---
 
-# Experience
+# About me
+
+My name is Georgi Kamacharov and I was born in [Bulgaria](https://en.wikipedia.org/wiki/Bulgaria). I moved to the United States in 2007 and went to [University of Kentucky](https://www.uky.edu/). I graduated with a major in Computer Science and minor in Mathematics. Ever since then, I have been working as a Software Developer / Engineer.
+
+I am currently a **Senior Software Engineer**, in the *FinTech* industry, with more than **7** years of professional experience. I specialize in:
+
+`C#`\
+`.NET \ ASP.NET`\
+`RESTful API's`\
+`Relation Databases \ SQL Sever, PostgreSQL, MySQL`\
+`NoSQL Databases \ DynamoDB, CosmosDB, MongoDB, Table Storage`\
+`Entity Framework`\
+`Docker`\
+`Azure \ AWS`\
+`CI\CD using Azure DevOps, GitHub Actions`\
+`Microservice architecture`\
+`Event-driven architecture`
+
+I further specialize in building RESTful API's from the ground up from design to development and automated deployment.
+
+## Experience
 
 **Sr. Software Engineer**\
 *Railsbank - Full-time*\
