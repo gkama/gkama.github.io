@@ -50,7 +50,7 @@ plugins:
 
 author:
   name   : "Georgi Kamacharov"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/_site/assets/images/bio-photo.jpg"
   bio    : "Senior .NET Developer, specializing in back-end development"
   links:
     - label: "LinkedIn"
