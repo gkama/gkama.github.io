@@ -46,11 +46,12 @@ plugins:
   - jekyll-gist
   - jemoji
   - jekyll-include-cache
+  - jekyll-remote-theme
 
 author:
   name   : "Georgi Kamacharov"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Strong .NET developer, specializing in micro services, architecture and back-end development"
+  bio    : "Senior .NET Developer, specializing in back-end development"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
