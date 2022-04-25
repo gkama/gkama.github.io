@@ -17,8 +17,11 @@ title: Georgi Kamacharov
 email: gkamacharov@gmail.com
 description: >
   Personal website
-github_username: gkama
 logo: /assets/img/bio-photo.jpg
+
+profiles:
+  github: https://github.com/gkama
+  linkedin: https://www.linkedin.com/in/georgi-kamacharov/
 
 # Build settings
 markdown: kramdown
