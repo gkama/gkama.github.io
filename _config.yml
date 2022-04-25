@@ -54,7 +54,7 @@ author:
   bio    : "Senior .NET Developer, specializing in back-end development"
   links:
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-linkedin-in"
+      icon: "fas fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/georgi-kamacharov/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
