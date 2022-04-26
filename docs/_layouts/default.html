@@ -22,7 +22,7 @@
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
+        <p><i>{{ site.description | default: site.github.project_tagline }}</i></p>
 
         <p class="view"><a href="{{ site.profiles.github }}">View My GitHub Profile</a></p>
         <p class="view"><a href="{{ site.profiles.linkedin }}">View My LinkedIn Profile</a></p>
@@ -42,7 +42,7 @@
       </section>
       <footer>
         {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+        <p>This personal website is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
       </footer>
     </div>
