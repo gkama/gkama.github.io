@@ -51,3 +51,11 @@ Designed, developed and deployed APIs and solutions for microservices in Microso
 - Responsible for creating and improving continuous integration and continuous delivery (CI/CD) pipelines using Azure DevOps
 - Designed and built new internal systems to improve engineering teams’ productivity and visibility
 - Mentored and interviewed junior software developers and engineers
+
+## Freelance
+
+*I am currently accepting new clients*. You can usually find me at Upwork, but I am also open to doing direct contracting.  
+
+### Profiles
+
+[Upwork](https://www.upwork.com/freelancers/~017bcaa8e1006e67fd?s=1110580748673863680)
